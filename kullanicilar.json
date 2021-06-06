@@ -1,0 +1,19 @@
+{
+    "Kullanicilar": [
+        {
+            "AdiSoyadi":"Mertcan Özyurt",
+            "Email":"ozyurtm18@gmail.com",
+            "Sifre": "1613mert."
+        },
+        {
+            "AdiSoyadi":"Hasan Kaldırım",
+            "Email":"hasankaldirim@gmail.com",
+            "Sifre": "1234567"
+        },
+        {
+            "AdiSoyadi":"Faruk Yaman",
+            "Email":"faruk@gmail.com",
+            "Sifre": "12341234"
+        }
+    ]
+}
