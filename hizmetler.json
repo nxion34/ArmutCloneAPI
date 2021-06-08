@@ -1,5 +1,5 @@
-{
-	"Kategoriler": [{
+
+	 [{
 			"KategoriAdi": "Banyo Tadilat",
 			"kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_banyo_tadilat.jpg",
 			"Ustalar": [{
@@ -246,4 +246,4 @@
 			]
 		}
 	]
-}
+
