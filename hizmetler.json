@@ -1,247 +1,249 @@
 {
-    "Kategoriler": [
-        {
-            "KategoriAdi": "Banyo Tadilat",
-            "kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_banyo_tadilat.jpg"
-        },
-        {
-            "KategoriAdi": "Boya Badana Ustası",
-            "kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_badana_utsa.jpg"
-        },
-        {
-            "KategoriAdi": "İç Mimar",
-            "kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_icmimar.jpg"
-        },
-        {
-            "KategoriAdi": "Koltuk Döşeme",
-            "kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_koltuk_doseme.jpg"
-        },
-        {
-            "KategoriAdi": "Ev Tadilat",
-            "kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_tadilat.jpg"
-        },
-        {
-            "KategoriAdi": "Su Tesisatçısı",
-            "kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_tesisatci.jpg"
-        }
-    ],
-    "Ustalar": [
-        {
-            "UstaAdi": "Mert Özyurt",
-            "Kategorisi": "Su Tesisatçısı",
-            "Aciklamasi": "Özyurt Tesisat 1973'den günümüz yıllarına kadar dayanan tecrübesi ile tüm tesisat problemlerine çözüm ortağı olan Özyurt Tesisat.Bir çok referansa sahip İstanbul'un bütün ilçelerine ve tüm Türkiyede mobil tesisat hizmetini 7/24 en uygun fiyatlarla vermekteyiz.Her zaman kaliteyi ve iş yapmayı hedef vazife edinmiş Özyurt Tesisat kullandığı, birinci sınıf kaliteli malezeme dikkat çekiyor. Özyurt Tesisat genç ve profesyonel kadrosuyla bağlılık ve güvence kaynağınız devam ediyor.Genç ve profesyonel kadrosuyla ile bağlantılı tesisat işleriyle her zaman ilk tercih edilen tesisat firması olduk.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta1.png",
-            "Telefonu": "0 544 510 3418",
-            "MailAdresi": "mertozyurt@ozyurttesisat.com"
-        },
-        {
-            "UstaAdi": "Ramazan Bakan",
-            "Kategorisi": "Su Tesisatçısı",
-            "Aciklamasi": "İstanbul / Çekmeköy’de kalorifer sistemleri ve doğalgaz tesisatları alanlarında faaliyet göstermekteyiz. İstanbul’un Anadolu yakası ve Avrupa yakasına hizmet vermekteyiz. Ayrıca su tesisatı ve sıhhi tesisat arızalarınızda tüm ihtiyaçlarınıza cevap vermekteyiz.Kalorifer sistemleri, doğalgaz tesisatı döşeme, doğalgaz tesisatı tamiri, doğalgaz tesisatı servisi, doğalgaz tesisatı montajı, doğalgaz iç tesisat döşeme, kalorifer tesisatı bakımı, kalorifer tesisatı döşeme, kalorifer tamiri, kalorifer temizleme, petek temizleme, kalorifer tesisatı arıza, kalorifer tesisatı su kaçağı, havlupan petek montajı, kat kalorifer tamiri gibi tesisatçı ihtiyaçlarınızda işinde uzman ustalarımızla hizmetinizdeyiz.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta2.jpg",
-            "Telefonu": "0 531 123 1513",
-            "MailAdresi": "bakan_ramazan34@cekmekoytesisat.com"
-        },
-        {
-            "UstaAdi": "Cemil Kartal",
-            "Kategorisi": "Su Tesisatçısı",
-            "Aciklamasi": "İstanbul / Ümraniye bölgesinde kombi bakım montaj arıza servisi ve klima bakım montaj arıza servisi olarak faaliyet göstermekteyiz. Ekonomik fiyatlarla petek temizliği işlemlerinizi yapmakta ve kış aylarında daha yüksek performansla ısınmanıza yardımcı olmaktayız.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta3.jpg",
-            "Telefonu": "0 544 135 1883",
-            "MailAdresi": "cemilkartal@gmail.com"
-        },
-        {
-            "UstaAdi": "Şakir Sarıyel",
-            "Kategorisi": "Su Tesisatçısı",
-            "Aciklamasi": "Bursa'nın İhsaniye semtinde su tesisatı, kalorifer tesisatı konusunda 7/24 tamir, bakım ve onarım hizmetleri sunmaktayız. Ustalık belgelerimiz ve Bursa'nın en ileri gelen ustaları ile 25 yıldır bu işi yapmaktayız. Servisimizde Doğalgaz Tesisat hizmeti bulunmamaktadır.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta4.jpg",
-            "Telefonu": "0 537 061 9011",
-            "MailAdresi": "nilufertesisat@gmail.com"
-        },
-        {
-            "UstaAdi": "Bünyamin Özaslan",
-            "Kategorisi": "Su Tesisatçısı",
-            "Aciklamasi": "Bursa / Yıldırım’da su tesisatı ve sıhhi tesisat alanında hizmet vermekte olan firmamız, Gürsu, Kestel, Nilüfer, Osmangazi ve Yıldırım bölgelerine 2016 yılından bu yana hizmet vermektedir.BYM Yapı olarak inşaat ve sıhhi tesisat alanında toptan ve parekende satışa odaklı sektörde güvenilir bir marka olma yolunda hedefinin daima müşteri memnuniyeti olmasından yana çalışkan ve güvenilir ekibiyle birlikte siz değerli iş ortaklarımıza en iyi şekilde hizmet vermek adına çalışmalarımızı sürdürmekteyiz.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta5.jpg",
-            "Telefonu": "0 531 321 1163",
-            "MailAdresi": "bozaslan@mercantesisat.com"
-        },
-        {
-            "UstaAdi": "Hayati Karaman",
-            "Kategorisi": "Su Tesisatçısı",
-            "Aciklamasi": "İstanbul / Çekmeköy’de kalorifer sistemleri ve doğalgaz tesisatları alanlarında faaliyet göstermekteyiz. İstanbul’un Anadolu yakası ve Avrupa yakasına hizmet vermekteyiz. Ayrıca su tesisatı ve sıhhi tesisat arızalarınızda tüm ihtiyaçlarınıza cevap vermekteyiz.Kalorifer sistemleri, doğalgaz tesisatı döşeme, doğalgaz tesisatı tamiri, doğalgaz tesisatı servisi, doğalgaz tesisatı montajı, doğalgaz iç tesisat döşeme, kalorifer tesisatı bakımı, kalorifer tesisatı döşeme, kalorifer tamiri, kalorifer temizleme, petek temizleme, kalorifer tesisatı arıza, kalorifer tesisatı su kaçağı, havlupan petek montajı, kat kalorifer tamiri gibi tesisatçı ihtiyaçlarınızda işinde uzman ustalarımızla hizmetinizdeyiz.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta6.jpg",
-            "Telefonu": "0 531 512 1166",
-            "MailAdresi": "hayatikaraman@gmail.com"
-        },
-        {
-            "UstaAdi": "Davuthan Şimşek",
-            "Kategorisi": "Boya Badana Ustası",
-            "Aciklamasi": "İstanbul / Büyükçekmece Kamiloba semtinde iç mimari ve dekorasyon alanında faaliyet göstermekteyiz. Anahtar teslim ev ve ofis tadilatları yapmaktayız.alçıve kartonpiyer yapımı, fayans döşeme, parke döşeme ve laminat parke uygulamaları konusunda profesyoneliz. Ev ve ofisleriniz için alçı, sıva, alçıpan duvar yapımı, asma tavan yapımı, dekoratif alçı, boya tadilatı, boya dekorasyonu, parke uygulama, duvar kağıdı uygulama gibi işleri kapsayan detaylı dekorasyon hizmetleri vermekteyiz. Banyo ve mutfak tadilatı ihtiyaçlarınızda fayans döşeme, fayans yenileme, seramik kaplama, granit döşeme, mutfak tezgahı değişimi, granit mutfak tezgahı yapımı konusunda uzman ekibimizle hizmetinizdeyiz.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_1.jpg",
-            "Telefonu": "0 531 211 0911",
-            "MailAdresi": "davuthansimsek@gmail.com"
-        },
-        {
-            "UstaAdi": "Aslan İnci",
-            "Kategorisi": "Boya Badana Ustası",
-            "Aciklamasi": "İstanbul'un tüm ilçe ve semtlerinde Boya badana, alçı ve kartonpiyer yapımı, fayans döşeme uygulamaları konusunda profesyoneliz. Ev ve ofisleriniz için alçı, sıva, alçıpan duvar yapımı, asma tavan yapımı, dekoratif alçı, boya tadilatı, boya dekorasyonu, parke uygulama, duvar kağıdı uygulama gibi işleri kapsayan detaylı dekorasyon hizmetleri vermekteyiz.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_2.jpg",
-            "Telefonu": "0 531 211 9211",
-            "MailAdresi": "aslaninci@gmail.com"
-        },
-        {
-            "UstaAdi": "Gürbüz Dekorasyon",
-            "Kategorisi": "Boya Badana Ustası",
-            "Aciklamasi": "İstanbul / Beylikdüzü’nde alçı, kartonpiyer, badana boya, cephe yalıtımı ve iç mimari dekorasyon alanında faaliyet göstermekteyiz. Babadan oğula devreden mesleğimizde 30 yıla yakın bir süredir müşterilerimizin yaşam alanlarına ayrıcalıklar katıyoruz..",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_3.jpg",
-            "Telefonu": "0 531 211 8152",
-            "MailAdresi": "gurbuzdekorasyon0@gmail.com"
-        },
-        {
-            "UstaAdi": "Yankı Dekorasyon",
-            "Kategorisi": "Boya Badana Ustası",
-            "Aciklamasi": "İstanbul / Beylikdüzü’nde iç mimari ve dekorasyon alanında 2006 yılından beri faaliyet göstermekteyiz. Kaliteli hizmet anlayışımız, uygun fiyatlarımız, işçilik garantisi ve deneyimli ekibimizle hizmetinizdeyiz..",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_4.jpg",
-            "Telefonu": "0 536 612 0911",
-            "MailAdresi": "yankidekors16@gmail.com"
-        },
-        {
-            "UstaAdi": "Dekor Evim",
-            "Kategorisi": "Boya Badana Ustası",
-            "Aciklamasi": "İstanbul Beylikdüzü ve tüm İstanbul genelinde Duvar kağıdı, Efekt boya, italyan boya ve boya badana işleriniz, Su tesisati tamir kaçak tespiti, Dogalgaz kombi montajı tamir ve bakımı ayrıca petek ve havlupanlarınızın tüm tamir ve temizlik işleri için hizmet vermekteyiz.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_5.jpg",
-            "Telefonu": "0 537 231 0112",
-            "MailAdresi": "dekorevim@gmail.com"
-        },
-        {
-            "UstaAdi": "Emha Yapı",
-            "Kategorisi": "Banyo Tadilat",
-            "Aciklamasi": "Konya / Selçuklu ’da cam balkon ve katlanır cam sistemleri alanında faaliyet gösteren firmamız, Konya’nın tüm ilçelerine hizmet vermektedir.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/banyo_tadilat_ustasi_1.jpg",
-            "Telefonu": "0 537 231 0112",
-            "MailAdresi": "emhayapi25@gmail.com"
-        },
-        {
-            "UstaAdi": "İnanç Teknik",
-            "Kategorisi": "Banyo Tadilat",
-            "Aciklamasi": "Anadolu Servis İnanç Teknik Klima, Kombi, Beyaz Eşya, Televizyon, Endüstriyel Cihazların tamir ve bakım servisi olarak faaliyet göstermektedir. Marmaranın İncileri Bursa, Balıkesir, Yalova'nın yanı sıra Adana ve Gaziantep'inde her bölgesine hizmet vermekteyiz.Kurumsal Kimliğimiz, geniş servis ağımız ile siz değerli müşterilerimize 1989'dan bugüne hzimet veriyor olmanın haklı gururunu yaşıyoruz..",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/banyo_tadilat_ustasi_2.jpg",
-            "Telefonu": "0 537 231 0112",
-            "MailAdresi": "inanteknikservis@gmail.com"
-        },
-        {
-            "UstaAdi": "Çağrı Duşakabin",
-            "Kategorisi": "Banyo Tadilat",
-            "Aciklamasi": "Samsun / Atakum’da çelik kapı imalatı ve montajı, alçı, sıva, boya, gergi tavan, cephe yalıtım ve mantolama işleri alanında faaliyet göstermekteyiz.",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/banyo_tadilat_ustasi_3.jpg",
-            "Telefonu": "0 537 231 0112",
-            "MailAdresi": "tarzcelikyapi@gmail.com"
-        },
-        {
-            "UstaAdi": "Tarz Çelik Kapı",
-            "Kategorisi": "Banyo Tadilat",
-            "Aciklamasi": "Çağrı Duşakabin olarak duşakabin ve banyo sistemleri alanında İstanbul Beylikdüzü bölgesi ve tüm İstanbul genelinde faaliyet göstermekteyiz",
-            "Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/banyo_tadilat_ustasi_4.jpg",
-            "Telefonu": "0 537 231 0112",
-            "MailAdresi": "cagridusakabin@gmail.com"
-        },
-        {
-            "UstaAdi": "Molavelli Oğulları",
-            "Kategorisi": "İç Mimar",
-            "Aciklamasi": "Mollavelioğulları Mimarlık olarak İstanbul geneli ve ülke genelindeki projelerde profesyonel olarak hizmet vermekteyiz. Firmamız tüm aldığı işlerde aynı hassasiyet ile küçük büyük iş ayrımı yapmadan çalışmalarını sürdürmektedir.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ic_mimar_1.jpg",
-            "Telefonu": "0 532 511 1212",
-            "MailAdresi": "molvallelimimaryapi@gmail.com"
-        },
-        {
-            "UstaAdi": "Cihan Dekor",
-            "Kategorisi": "İç Mimar",
-            "Aciklamasi": "İstanbul / Kadıköy’de duvar kağıdı alanında faaliyet göstermekteyim. Kadıköy başta olmak üzere İstanbul’un dört bir yanına 30 yıldır hizmet vermekteyim. İthal duvar kağıtları, tekstil taban duvar kağıtları, yerli duvar kağıtları, alçı, sıva, zemin düzeltme işlerinizi profesyonelce yapmaktayım. Aynı zamanda sigorta şirketlerinin bilir kişiliğini yapmaktayım.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ic_mimar_2.jpg",
-            "Telefonu": "0 532 511 1212",
-            "MailAdresi": "cihandkeor@gmail.com"
-        },
-        {
-            "UstaAdi": "İz Yapı",
-            "Kategorisi": "İç Mimar",
-            "Aciklamasi": "İstanbul / Kadıköy’de duvar kağıdı alanında faaliyet göstermekteyim. Kadıköy başta olmak üzere İstanbul’un dört bir yanına 30 yıldır hizmet vermekteyim. İthal duvar kağıtları, tekstil taban duvar kağıtları, yerli duvar kağıtları, alçı, sıva, zemin düzeltme işlerinizi profesyonelce yapmaktayım. Aynı zamanda sigorta şirketlerinin bilir kişiliğini yapmaktayım.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ic_mimar_3.jpg",
-            "Telefonu": "0 532 511 1212",
-            "MailAdresi": "izyapı@gmail.com"
-        },
-        {
-            "UstaAdi": "Çakır Yapı",
-            "Kategorisi": "İç Mimar",
-            "Aciklamasi": "İstanbul / Kadıköy’de duvar kağıdı alanında faaliyet göstermekteyim. Kadıköy başta olmak üzere İstanbul’un dört bir yanına 30 yıldır hizmet vermekteyim. İthal duvar kağıtları, tekstil taban duvar kağıtları, yerli duvar kağıtları, alçı, sıva, zemin düzeltme işlerinizi profesyonelce yapmaktayım. Aynı zamanda sigorta şirketlerinin bilir kişiliğini yapmaktayım.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ic_mimar_4.jpg",
-            "Telefonu": "0 532 511 1212",
-            "MailAdresi": "cakiryapi@gmail.com"
-        },
-        {
-            "UstaAdi": "Civan Mobilya",
-            "Kategorisi": "Koltuk Döşeme",
-            "Aciklamasi": "25 yıllık tecrübesi ile evlere güzellik getiren döşeme atölyesi. CİVAN MOBİLYA'nın misyonu; Bursa da ve Türkiye de 1. kalite de, en güvenilir hizmet sunmak. CİVAN MOBİLYA üstün kaliteli ürünler ve hizmetler sağlayan, önde gelen bir doğrudan satış şirketidir.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_1.jpg",
-            "Telefonu": "0 535 123 0232",
-            "MailAdresi": "civanmobilya@gmail.com"
-        },
-        {
-            "UstaAdi": "Akban Mobilya",
-            "Kategorisi": "Koltuk Döşeme",
-            "Aciklamasi": "İstanbul Kağıthane ilçesinde koltuk döşeme ve koltuk tamiri üzerine hizmet vermekteyiz. İskeleti sağlam ancak yüzü eskimiz koltukların döşemelerini yenileyerek tamiratlarını yapmakta ve yepyeni bir görünüme kavuşmalarını sağlamaktayız.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_2.jpg",
-            "Telefonu": "0 533 892 1562",
-            "MailAdresi": "akbanmobilya@gmail.com"
-        },
-        {
-            "UstaAdi": "Hilal Koltuk",
-            "Kategorisi": "Koltuk Döşeme",
-            "Aciklamasi": "İstanbul Küçükekmece ve tüm İstanbul genelinde koltuk döşeme üzerine hizmet vermekteyiz. İskeleti sağlam ancak yüzü eskimiz koltukların döşemelerini yenileyerek tamiratlarını yapmakta ve yepyeni bir görünüme kavuşmalarını sağlamaktayız.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_3.jpg",
-            "Telefonu": "0 532 912 1212",
-            "MailAdresi": "hilalkoltuk@gmail.com"
-        },
-        {
-            "UstaAdi": "Pınar Koltuk",
-            "Kategorisi": "Koltuk Döşeme",
-            "Aciklamasi": "İzmir Urla ilçesinde koltuk döşeme ve koltuk tamiri üzerine hizmet vermekteyiz. İskeleti sağlam ancak yüzü eskimiz koltukların döşemelerini yenileyerek tamiratlarını yapmakta ve yepyeni bir görünüme kavuşmalarını sağlamaktayız.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_4.jpg",
-            "Telefonu": "0 532 825 5162",
-            "MailAdresi": "pinarkoltuk@gmail.com"
-        },
-        {
-            "UstaAdi": "Bilen Dekorasyon",
-            "Kategorisi": "Ev Tadilat",
-            "Aciklamasi": "İzmir Buca bölgesinde dekorasyon ve iç mimari alanında faaliyet göstermekteyiz. İzmir’in tüm ilçelerine ve aynı zamanda Aydın Kuşadası bölgesine de hizmet vermekteyiz.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ev_tadilat_1.jpg",
-            "Telefonu": "0 532 825 5162",
-            "MailAdresi": "pinarkoltuk@gmail.com"
-        },
-        {
-            "UstaAdi": "Endustiryel Teknik",
-            "Kategorisi": "Ev Tadilat",
-            "Aciklamasi": "Muğla Seydikemer merkezli servisimiz elektrik ve elektrik tesisatı, Sıhhi tesisat, Kalorifer tesisatı, dalgıç pompa, Kumanda Panoları ve Uzaktan kontrol cihazları alanında faaliyetlerine devam ediyor. Seydikemer, Fethiye, Ortaca ve Antalya Kaş ilçelerinde tüm semtlere servis desteği sağlamaktayız.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_4.jpg",
-            "Telefonu": "0 532 825 5162",
-            "MailAdresi": "endustriyel@gmail.com"
-        },
-        {
-            "UstaAdi": "Demir Dekorasyon",
-            "Kategorisi": "Ev Tadilat",
-            "Aciklamasi": "İstanbul'un tüm ilçe ve semtlerinde Boya badana, bölme duvar, alçıpan duvar, çıtalama, pelülatan. çıta,köpük, kartonpiyer, alçı, kartonpiyer tavan kaplaması, köpük led tavan alçıpan, demir dekorasyon uygulamaları konusunda profesyoneliz. Ev ve ofisleriniz için alçı, sıva, alçıpan duvar yapımı, asma tavan yapımı, dekoratif alçı, boya tadilatı, boya dekorasyonu gibi işleri kapsayan detaylı dekorasyon hizmetleri vermekteyiz.",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_4.jpg",
-            "Telefonu": "0 532 825 5162",
-            "MailAdresi": "demirdekorasyon@gmail.com"
-        },
-        {
-            "UstaAdi": "Tacettin Kızıl",
-            "Kategorisi": "Ev Tadilat",
-            "Aciklamasi": "Ankara'da Çatı ve Dekorasyon alanında faaliyetlerimize devam ediyoruz.Her türlü yapınız için çatı sistemleri montajı, çatı yapımı, çatı izolasyonu ve ısı yalıtımı, çatı oluğu tadilatı ve montajı, dış cephe yalıtımı ve izolasyon, su ve ısı izolasyonu, dış izolasyon, site mantolama işleri",
-            "Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_4.jpg",
-            "Telefonu": "0 532 825 5162",
-            "MailAdresi": "tacettinkizil@gmail.com"
-        }
-
-    ]
+	"Kategoriler": [{
+			"KategoriAdi": "Banyo Tadilat",
+			"kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_banyo_tadilat.jpg",
+			"Ustalar": [{
+					"UstaAdi": "Emha Yapı",
+					"Kategorisi": "Banyo Tadilat",
+					"Aciklamasi": "Konya / Selçuklu ’da cam balkon ve katlanır cam sistemleri alanında faaliyet gösteren firmamız, Konya’nın tüm ilçelerine hizmet vermektedir.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/banyo_tadilat_ustasi_1.jpg",
+					"Telefonu": "0 537 231 0112",
+					"MailAdresi": "emhayapi25@gmail.com"
+				},
+				{
+					"UstaAdi": "İnanç Teknik",
+					"Kategorisi": "Banyo Tadilat",
+					"Aciklamasi": "Anadolu Servis İnanç Teknik Klima, Kombi, Beyaz Eşya, Televizyon, Endüstriyel Cihazların tamir ve bakım servisi olarak faaliyet göstermektedir. Marmaranın İncileri Bursa, Balıkesir, Yalova'nın yanı sıra Adana ve Gaziantep'inde her bölgesine hizmet vermekteyiz.Kurumsal Kimliğimiz, geniş servis ağımız ile siz değerli müşterilerimize 1989'dan bugüne hzimet veriyor olmanın haklı gururunu yaşıyoruz..",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/banyo_tadilat_ustasi_2.jpg",
+					"Telefonu": "0 537 231 0112",
+					"MailAdresi": "inanteknikservis@gmail.com"
+				},
+				{
+					"UstaAdi": "Çağrı Duşakabin",
+					"Kategorisi": "Banyo Tadilat",
+					"Aciklamasi": "Samsun / Atakum’da çelik kapı imalatı ve montajı, alçı, sıva, boya, gergi tavan, cephe yalıtım ve mantolama işleri alanında faaliyet göstermekteyiz.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/banyo_tadilat_ustasi_3.jpg",
+					"Telefonu": "0 537 231 0112",
+					"MailAdresi": "tarzcelikyapi@gmail.com"
+				},
+				{
+					"UstaAdi": "Tarz Çelik Kapı",
+					"Kategorisi": "Banyo Tadilat",
+					"Aciklamasi": "Çağrı Duşakabin olarak duşakabin ve banyo sistemleri alanında İstanbul Beylikdüzü bölgesi ve tüm İstanbul genelinde faaliyet göstermekteyiz",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/banyo_tadilat_ustasi_4.jpg",
+					"Telefonu": "0 537 231 0112",
+					"MailAdresi": "cagridusakabin@gmail.com"
+				}
+			]
+		},
+		{
+			"KategoriAdi": "Boya Badana Ustası",
+			"kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_badana_utsa.jpg",
+			"Ustalar": [{
+					"UstaAdi": "Davuthan Şimşek",
+					"Kategorisi": "Boya Badana Ustası",
+					"Aciklamasi": "İstanbul / Büyükçekmece Kamiloba semtinde iç mimari ve dekorasyon alanında faaliyet göstermekteyiz. Anahtar teslim ev ve ofis tadilatları yapmaktayız.alçıve kartonpiyer yapımı, fayans döşeme, parke döşeme ve laminat parke uygulamaları konusunda profesyoneliz. Ev ve ofisleriniz için alçı, sıva, alçıpan duvar yapımı, asma tavan yapımı, dekoratif alçı, boya tadilatı, boya dekorasyonu, parke uygulama, duvar kağıdı uygulama gibi işleri kapsayan detaylı dekorasyon hizmetleri vermekteyiz. Banyo ve mutfak tadilatı ihtiyaçlarınızda fayans döşeme, fayans yenileme, seramik kaplama, granit döşeme, mutfak tezgahı değişimi, granit mutfak tezgahı yapımı konusunda uzman ekibimizle hizmetinizdeyiz.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_1.jpg",
+					"Telefonu": "0 531 211 0911",
+					"MailAdresi": "davuthansimsek@gmail.com"
+				},
+				{
+					"UstaAdi": "Aslan İnci",
+					"Kategorisi": "Boya Badana Ustası",
+					"Aciklamasi": "İstanbul'un tüm ilçe ve semtlerinde Boya badana, alçı ve kartonpiyer yapımı, fayans döşeme uygulamaları konusunda profesyoneliz. Ev ve ofisleriniz için alçı, sıva, alçıpan duvar yapımı, asma tavan yapımı, dekoratif alçı, boya tadilatı, boya dekorasyonu, parke uygulama, duvar kağıdı uygulama gibi işleri kapsayan detaylı dekorasyon hizmetleri vermekteyiz.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_2.jpg",
+					"Telefonu": "0 531 211 9211",
+					"MailAdresi": "aslaninci@gmail.com"
+				},
+				{
+					"UstaAdi": "Gürbüz Dekorasyon",
+					"Kategorisi": "Boya Badana Ustası",
+					"Aciklamasi": "İstanbul / Beylikdüzü’nde alçı, kartonpiyer, badana boya, cephe yalıtımı ve iç mimari dekorasyon alanında faaliyet göstermekteyiz. Babadan oğula devreden mesleğimizde 30 yıla yakın bir süredir müşterilerimizin yaşam alanlarına ayrıcalıklar katıyoruz..",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_3.jpg",
+					"Telefonu": "0 531 211 8152",
+					"MailAdresi": "gurbuzdekorasyon0@gmail.com"
+				},
+				{
+					"UstaAdi": "Yankı Dekorasyon",
+					"Kategorisi": "Boya Badana Ustası",
+					"Aciklamasi": "İstanbul / Beylikdüzü’nde iç mimari ve dekorasyon alanında 2006 yılından beri faaliyet göstermekteyiz. Kaliteli hizmet anlayışımız, uygun fiyatlarımız, işçilik garantisi ve deneyimli ekibimizle hizmetinizdeyiz..",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_4.jpg",
+					"Telefonu": "0 536 612 0911",
+					"MailAdresi": "yankidekors16@gmail.com"
+				},
+				{
+					"UstaAdi": "Dekor Evim",
+					"Kategorisi": "Boya Badana Ustası",
+					"Aciklamasi": "İstanbul Beylikdüzü ve tüm İstanbul genelinde Duvar kağıdı, Efekt boya, italyan boya ve boya badana işleriniz, Su tesisati tamir kaçak tespiti, Dogalgaz kombi montajı tamir ve bakımı ayrıca petek ve havlupanlarınızın tüm tamir ve temizlik işleri için hizmet vermekteyiz.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/boya_badana_ustasi_5.jpg",
+					"Telefonu": "0 537 231 0112",
+					"MailAdresi": "dekorevim@gmail.com"
+				}
+			]
+		},
+		{
+			"KategoriAdi": "İç Mimar",
+			"kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_icmimar.jpg",
+			"Ustalar": [{
+					"UstaAdi": "Molavelli Oğulları",
+					"Kategorisi": "İç Mimar",
+					"Aciklamasi": "Mollavelioğulları Mimarlık olarak İstanbul geneli ve ülke genelindeki projelerde profesyonel olarak hizmet vermekteyiz. Firmamız tüm aldığı işlerde aynı hassasiyet ile küçük büyük iş ayrımı yapmadan çalışmalarını sürdürmektedir.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ic_mimar_1.jpg",
+					"Telefonu": "0 532 511 1212",
+					"MailAdresi": "molvallelimimaryapi@gmail.com"
+				},
+				{
+					"UstaAdi": "Cihan Dekor",
+					"Kategorisi": "İç Mimar",
+					"Aciklamasi": "İstanbul / Kadıköy’de duvar kağıdı alanında faaliyet göstermekteyim. Kadıköy başta olmak üzere İstanbul’un dört bir yanına 30 yıldır hizmet vermekteyim. İthal duvar kağıtları, tekstil taban duvar kağıtları, yerli duvar kağıtları, alçı, sıva, zemin düzeltme işlerinizi profesyonelce yapmaktayım. Aynı zamanda sigorta şirketlerinin bilir kişiliğini yapmaktayım.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ic_mimar_2.jpg",
+					"Telefonu": "0 532 511 1212",
+					"MailAdresi": "cihandkeor@gmail.com"
+				},
+				{
+					"UstaAdi": "İz Yapı",
+					"Kategorisi": "İç Mimar",
+					"Aciklamasi": "İstanbul / Kadıköy’de duvar kağıdı alanında faaliyet göstermekteyim. Kadıköy başta olmak üzere İstanbul’un dört bir yanına 30 yıldır hizmet vermekteyim. İthal duvar kağıtları, tekstil taban duvar kağıtları, yerli duvar kağıtları, alçı, sıva, zemin düzeltme işlerinizi profesyonelce yapmaktayım. Aynı zamanda sigorta şirketlerinin bilir kişiliğini yapmaktayım.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ic_mimar_3.jpg",
+					"Telefonu": "0 532 511 1212",
+					"MailAdresi": "izyapı@gmail.com"
+				},
+				{
+					"UstaAdi": "Çakır Yapı",
+					"Kategorisi": "İç Mimar",
+					"Aciklamasi": "İstanbul / Kadıköy’de duvar kağıdı alanında faaliyet göstermekteyim. Kadıköy başta olmak üzere İstanbul’un dört bir yanına 30 yıldır hizmet vermekteyim. İthal duvar kağıtları, tekstil taban duvar kağıtları, yerli duvar kağıtları, alçı, sıva, zemin düzeltme işlerinizi profesyonelce yapmaktayım. Aynı zamanda sigorta şirketlerinin bilir kişiliğini yapmaktayım.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ic_mimar_4.jpg",
+					"Telefonu": "0 532 511 1212",
+					"MailAdresi": "cakiryapi@gmail.com"
+				}
+			]
+		},
+		{
+			"KategoriAdi": "Koltuk Döşeme",
+			"kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_koltuk_doseme.jpg",
+			"Ustalar": [{
+					"UstaAdi": "Civan Mobilya",
+					"Kategorisi": "Koltuk Döşeme",
+					"Aciklamasi": "25 yıllık tecrübesi ile evlere güzellik getiren döşeme atölyesi. CİVAN MOBİLYA'nın misyonu; Bursa da ve Türkiye de 1. kalite de, en güvenilir hizmet sunmak. CİVAN MOBİLYA üstün kaliteli ürünler ve hizmetler sağlayan, önde gelen bir doğrudan satış şirketidir.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_1.jpg",
+					"Telefonu": "0 535 123 0232",
+					"MailAdresi": "civanmobilya@gmail.com"
+				},
+				{
+					"UstaAdi": "Akban Mobilya",
+					"Kategorisi": "Koltuk Döşeme",
+					"Aciklamasi": "İstanbul Kağıthane ilçesinde koltuk döşeme ve koltuk tamiri üzerine hizmet vermekteyiz. İskeleti sağlam ancak yüzü eskimiz koltukların döşemelerini yenileyerek tamiratlarını yapmakta ve yepyeni bir görünüme kavuşmalarını sağlamaktayız.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_2.jpg",
+					"Telefonu": "0 533 892 1562",
+					"MailAdresi": "akbanmobilya@gmail.com"
+				},
+				{
+					"UstaAdi": "Hilal Koltuk",
+					"Kategorisi": "Koltuk Döşeme",
+					"Aciklamasi": "İstanbul Küçükekmece ve tüm İstanbul genelinde koltuk döşeme üzerine hizmet vermekteyiz. İskeleti sağlam ancak yüzü eskimiz koltukların döşemelerini yenileyerek tamiratlarını yapmakta ve yepyeni bir görünüme kavuşmalarını sağlamaktayız.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_3.jpg",
+					"Telefonu": "0 532 912 1212",
+					"MailAdresi": "hilalkoltuk@gmail.com"
+				},
+				{
+					"UstaAdi": "Pınar Koltuk",
+					"Kategorisi": "Koltuk Döşeme",
+					"Aciklamasi": "İzmir Urla ilçesinde koltuk döşeme ve koltuk tamiri üzerine hizmet vermekteyiz. İskeleti sağlam ancak yüzü eskimiz koltukların döşemelerini yenileyerek tamiratlarını yapmakta ve yepyeni bir görünüme kavuşmalarını sağlamaktayız.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_4.jpg",
+					"Telefonu": "0 532 825 5162",
+					"MailAdresi": "pinarkoltuk@gmail.com"
+				}
+			]
+		},
+		{
+			"KategoriAdi": "Ev Tadilat",
+			"kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_tadilat.jpg",
+			"Ustalar": [{
+					"UstaAdi": "Bilen Dekorasyon",
+					"Kategorisi": "Ev Tadilat",
+					"Aciklamasi": "İzmir Buca bölgesinde dekorasyon ve iç mimari alanında faaliyet göstermekteyiz. İzmir’in tüm ilçelerine ve aynı zamanda Aydın Kuşadası bölgesine de hizmet vermekteyiz.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/ev_tadilat_1.jpg",
+					"Telefonu": "0 532 825 5162",
+					"MailAdresi": "pinarkoltuk@gmail.com"
+				},
+				{
+					"UstaAdi": "Endustiryel Teknik",
+					"Kategorisi": "Ev Tadilat",
+					"Aciklamasi": "Muğla Seydikemer merkezli servisimiz elektrik ve elektrik tesisatı, Sıhhi tesisat, Kalorifer tesisatı, dalgıç pompa, Kumanda Panoları ve Uzaktan kontrol cihazları alanında faaliyetlerine devam ediyor. Seydikemer, Fethiye, Ortaca ve Antalya Kaş ilçelerinde tüm semtlere servis desteği sağlamaktayız.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_4.jpg",
+					"Telefonu": "0 532 825 5162",
+					"MailAdresi": "endustriyel@gmail.com"
+				},
+				{
+					"UstaAdi": "Demir Dekorasyon",
+					"Kategorisi": "Ev Tadilat",
+					"Aciklamasi": "İstanbul'un tüm ilçe ve semtlerinde Boya badana, bölme duvar, alçıpan duvar, çıtalama, pelülatan. çıta,köpük, kartonpiyer, alçı, kartonpiyer tavan kaplaması, köpük led tavan alçıpan, demir dekorasyon uygulamaları konusunda profesyoneliz. Ev ve ofisleriniz için alçı, sıva, alçıpan duvar yapımı, asma tavan yapımı, dekoratif alçı, boya tadilatı, boya dekorasyonu gibi işleri kapsayan detaylı dekorasyon hizmetleri vermekteyiz.",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_4.jpg",
+					"Telefonu": "0 532 825 5162",
+					"MailAdresi": "demirdekorasyon@gmail.com"
+				},
+				{
+					"UstaAdi": "Tacettin Kızıl",
+					"Kategorisi": "Ev Tadilat",
+					"Aciklamasi": "Ankara'da Çatı ve Dekorasyon alanında faaliyetlerimize devam ediyoruz.Her türlü yapınız için çatı sistemleri montajı, çatı yapımı, çatı izolasyonu ve ısı yalıtımı, çatı oluğu tadilatı ve montajı, dış cephe yalıtımı ve izolasyon, su ve ısı izolasyonu, dış izolasyon, site mantolama işleri",
+					"Fotografi": "https://github.com/nxion34/ArmutCloneAPI/blob/main/koltuk_doseme_4.jpg",
+					"Telefonu": "0 532 825 5162",
+					"MailAdresi": "tacettinkizil@gmail.com"
+				}
+			]
+		},
+		{
+			"KategoriAdi": "Su Tesisatçısı",
+			"kapakResim": "https://raw.githubusercontent.com/nxion34/ArmutCloneAPI/main/armut_tesisatci.jpg",
+			"Ustalar": [{
+					"UstaAdi": "Mert Özyurt",
+					"Kategorisi": "Su Tesisatçısı",
+					"Aciklamasi": "Özyurt Tesisat 1973'den günümüz yıllarına kadar dayanan tecrübesi ile tüm tesisat problemlerine çözüm ortağı olan Özyurt Tesisat.Bir çok referansa sahip İstanbul'un bütün ilçelerine ve tüm Türkiyede mobil tesisat hizmetini 7/24 en uygun fiyatlarla vermekteyiz.Her zaman kaliteyi ve iş yapmayı hedef vazife edinmiş Özyurt Tesisat kullandığı, birinci sınıf kaliteli malezeme dikkat çekiyor. Özyurt Tesisat genç ve profesyonel kadrosuyla bağlılık ve güvence kaynağınız devam ediyor.Genç ve profesyonel kadrosuyla ile bağlantılı tesisat işleriyle her zaman ilk tercih edilen tesisat firması olduk.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta1.png",
+					"Telefonu": "0 544 510 3418",
+					"MailAdresi": "mertozyurt@ozyurttesisat.com"
+				},
+				{
+					"UstaAdi": "Ramazan Bakan",
+					"Kategorisi": "Su Tesisatçısı",
+					"Aciklamasi": "İstanbul / Çekmeköy’de kalorifer sistemleri ve doğalgaz tesisatları alanlarında faaliyet göstermekteyiz. İstanbul’un Anadolu yakası ve Avrupa yakasına hizmet vermekteyiz. Ayrıca su tesisatı ve sıhhi tesisat arızalarınızda tüm ihtiyaçlarınıza cevap vermekteyiz.Kalorifer sistemleri, doğalgaz tesisatı döşeme, doğalgaz tesisatı tamiri, doğalgaz tesisatı servisi, doğalgaz tesisatı montajı, doğalgaz iç tesisat döşeme, kalorifer tesisatı bakımı, kalorifer tesisatı döşeme, kalorifer tamiri, kalorifer temizleme, petek temizleme, kalorifer tesisatı arıza, kalorifer tesisatı su kaçağı, havlupan petek montajı, kat kalorifer tamiri gibi tesisatçı ihtiyaçlarınızda işinde uzman ustalarımızla hizmetinizdeyiz.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta2.jpg",
+					"Telefonu": "0 531 123 1513",
+					"MailAdresi": "bakan_ramazan34@cekmekoytesisat.com"
+				},
+				{
+					"UstaAdi": "Cemil Kartal",
+					"Kategorisi": "Su Tesisatçısı",
+					"Aciklamasi": "İstanbul / Ümraniye bölgesinde kombi bakım montaj arıza servisi ve klima bakım montaj arıza servisi olarak faaliyet göstermekteyiz. Ekonomik fiyatlarla petek temizliği işlemlerinizi yapmakta ve kış aylarında daha yüksek performansla ısınmanıza yardımcı olmaktayız.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta3.jpg",
+					"Telefonu": "0 544 135 1883",
+					"MailAdresi": "cemilkartal@gmail.com"
+				},
+				{
+					"UstaAdi": "Şakir Sarıyel",
+					"Kategorisi": "Su Tesisatçısı",
+					"Aciklamasi": "Bursa'nın İhsaniye semtinde su tesisatı, kalorifer tesisatı konusunda 7/24 tamir, bakım ve onarım hizmetleri sunmaktayız. Ustalık belgelerimiz ve Bursa'nın en ileri gelen ustaları ile 25 yıldır bu işi yapmaktayız. Servisimizde Doğalgaz Tesisat hizmeti bulunmamaktadır.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta4.jpg",
+					"Telefonu": "0 537 061 9011",
+					"MailAdresi": "nilufertesisat@gmail.com"
+				},
+				{
+					"UstaAdi": "Bünyamin Özaslan",
+					"Kategorisi": "Su Tesisatçısı",
+					"Aciklamasi": "Bursa / Yıldırım’da su tesisatı ve sıhhi tesisat alanında hizmet vermekte olan firmamız, Gürsu, Kestel, Nilüfer, Osmangazi ve Yıldırım bölgelerine 2016 yılından bu yana hizmet vermektedir.BYM Yapı olarak inşaat ve sıhhi tesisat alanında toptan ve parekende satışa odaklı sektörde güvenilir bir marka olma yolunda hedefinin daima müşteri memnuniyeti olmasından yana çalışkan ve güvenilir ekibiyle birlikte siz değerli iş ortaklarımıza en iyi şekilde hizmet vermek adına çalışmalarımızı sürdürmekteyiz.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta5.jpg",
+					"Telefonu": "0 531 321 1163",
+					"MailAdresi": "bozaslan@mercantesisat.com"
+				},
+				{
+					"UstaAdi": "Hayati Karaman",
+					"Kategorisi": "Su Tesisatçısı",
+					"Aciklamasi": "İstanbul / Çekmeköy’de kalorifer sistemleri ve doğalgaz tesisatları alanlarında faaliyet göstermekteyiz. İstanbul’un Anadolu yakası ve Avrupa yakasına hizmet vermekteyiz. Ayrıca su tesisatı ve sıhhi tesisat arızalarınızda tüm ihtiyaçlarınıza cevap vermekteyiz.Kalorifer sistemleri, doğalgaz tesisatı döşeme, doğalgaz tesisatı tamiri, doğalgaz tesisatı servisi, doğalgaz tesisatı montajı, doğalgaz iç tesisat döşeme, kalorifer tesisatı bakımı, kalorifer tesisatı döşeme, kalorifer tamiri, kalorifer temizleme, petek temizleme, kalorifer tesisatı arıza, kalorifer tesisatı su kaçağı, havlupan petek montajı, kat kalorifer tamiri gibi tesisatçı ihtiyaçlarınızda işinde uzman ustalarımızla hizmetinizdeyiz.",
+					"Fotografi": "https://raw.githubusercontent.com/nxion34/h5190072mertcanozyurt/main/usta6.jpg",
+					"Telefonu": "0 531 512 1166",
+					"MailAdresi": "hayatikaraman@gmail.com"
+				}
+			]
+		}
+	]
 }
